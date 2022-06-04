@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.db3d9afb.css",
-    "main.js": "/static/js/main.e1c1bdf3.js",
-    "static/js/787.29d6d5e2.chunk.js": "/static/js/787.29d6d5e2.chunk.js",
-    "index.html": "/index.html",
-    "main.db3d9afb.css.map": "/static/css/main.db3d9afb.css.map",
-    "main.e1c1bdf3.js.map": "/static/js/main.e1c1bdf3.js.map",
-    "787.29d6d5e2.chunk.js.map": "/static/js/787.29d6d5e2.chunk.js.map"
+    "main.css": "/meLlamoPetro/static/css/main.db3d9afb.css",
+    "main.js": "/meLlamoPetro/static/js/main.de29c154.js",
+    "static/js/787.29d6d5e2.chunk.js": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js",
+    "index.html": "/meLlamoPetro/index.html",
+    "main.db3d9afb.css.map": "/meLlamoPetro/static/css/main.db3d9afb.css.map",
+    "main.de29c154.js.map": "/meLlamoPetro/static/js/main.de29c154.js.map",
+    "787.29d6d5e2.chunk.js.map": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d9afb.css",
-    "static/js/main.e1c1bdf3.js"
+    "static/js/main.de29c154.js"
   ]
 }
